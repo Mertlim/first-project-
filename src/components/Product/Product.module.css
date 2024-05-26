@@ -1,0 +1,5 @@
+.blockCard {
+    display: flex;
+    margin-top: 20px;
+	grid-gap: 30px;
+}
